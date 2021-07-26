@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abir1h&label=Profile%20views&color=0e75b6&style=flat" alt="abir1h" /> </p>
 
-- 🔭 I’m currently working on [Smart Patient Management System](https://github.com/abir1h/Smart_patient_management_system_flutter/tree/master)
+- 🔭 I’m currently working as Junior Flutter Developer at CodeCell Ltd.
 
 - 🌱 I’m currently learning **REST API's**
 
