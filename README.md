@@ -7,7 +7,11 @@
 
 - 🔭 I’m currently working as Junior Software Engineer at <a href="https://www.stargroup-bd.com/ " target="blank">Star Computer Systems Limited.</a>
 
-- 🌱 I’m currently learning **REST API's**
+- 🔭 I have previously work at <a href="https://codecell.com.bd/ " target="blank">Codecell Limitted.</a> 
+
+- 🌱 I’m currently working on implementing **REST API's**
+
+- 🌱 Has 6 apps on **Google Playstore** and developed **10 More applications.
 
 - 👨‍💻 All of my projects are available at [https://github.com/abir1h](https://github.com/abir1h)
 
